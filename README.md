@@ -1,6 +1,10 @@
 # ECHO by Zip Code
 A Jupyter Notebook-based exploration of emissions permits, compliance, and enforcement designed for localization by zip code
 
+[![Code of Conduct](https://img.shields.io/badge/%E2%9D%A4-code%20of%20conduct-blue.svg?style=flat)](https://github.com/edgi-govdata-archiving/overview/blob/master/CONDUCT.md)
+
+---
+
 ## Running the notebook locally
 ### Quickstart
 You need:
@@ -96,3 +100,14 @@ It might take a minute to process all that data! When it's done, you should see 
 Change the zip code in the code as `my_zip` to your own zip code and run the notebook again to see a report for your area:
 
 ![Screen Shot 2020-02-06 at 3 52 03 PM](https://user-images.githubusercontent.com/454690/73988794-a37a1e00-48f8-11ea-8d13-9acb7321aed2.png)
+
+---
+
+## License & Copyright
+
+Copyright (C) <year> Environmental Data and Governance Initiative (EDGI)
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, version 3.0.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+See the [`LICENSE`](/LICENSE) file for details.
