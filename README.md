@@ -4,6 +4,17 @@ A Jupyter Notebook-based exploration of emissions permits, compliance, and enfor
 [![Code of Conduct](https://img.shields.io/badge/%E2%9D%A4-code%20of%20conduct-blue.svg?style=flat)](https://github.com/edgi-govdata-archiving/overview/blob/master/CONDUCT.md)
 
 ---
+## Demo
+Below are a few screen shots from a sample report:
+
+![Screen Shot 2020-02-07 at 9 48 07 AM](https://user-images.githubusercontent.com/454690/74052649-2ea5f300-498f-11ea-8fe8-db880592e04b.png)
+![Screen Shot 2020-02-07 at 9 48 21 AM](https://user-images.githubusercontent.com/454690/74052646-2d74c600-498f-11ea-9058-294476db3d86.png)
+![Screen Shot 2020-02-07 at 9 48 29 AM](https://user-images.githubusercontent.com/454690/74052642-2c439900-498f-11ea-93d7-ae82bc4cc419.png)
+![Screen Shot 2020-02-07 at 9 48 36 AM](https://user-images.githubusercontent.com/454690/74052639-2a79d580-498f-11ea-8781-38d9893dd2f4.png)
+![Screen Shot 2020-02-07 at 9 48 45 AM](https://user-images.githubusercontent.com/454690/74052631-28177b80-498f-11ea-8b6d-115a4b7f04f8.png)
+
+
+---
 
 ## Running the notebook locally
 ### Quickstart
