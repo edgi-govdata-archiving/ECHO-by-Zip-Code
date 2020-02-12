@@ -16,6 +16,11 @@ Below are a few screen shots from a sample report:
 
 ---
 
+## Running the notebook in Google CoLab
+* Go to [the CoLab page for the notebook](https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-by-Zip-Code/blob/master/echo-by-zip.ipynb)
+* Set `my_zip` in the code to the zip code you're interested in
+* In the "Runtime" menu, click "Run all"
+
 ## Running the notebook locally
 ### Quickstart
 You need:
