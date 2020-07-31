@@ -3,6 +3,8 @@ A Jupyter Notebook-based exploration of emissions permits, compliance, and enfor
 
 [![Code of Conduct](https://img.shields.io/badge/%E2%9D%A4-code%20of%20conduct-blue.svg?style=flat)](https://github.com/edgi-govdata-archiving/overview/blob/master/CONDUCT.md)
 
+[Repo website](https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-by-Zip-Code/blob/master/echo-by-zip.ipynb)
+
 ---
 ## Try it out!
 
