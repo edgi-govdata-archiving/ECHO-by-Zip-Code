@@ -3,13 +3,22 @@ A Jupyter Notebook-based exploration of emissions permits, compliance, and enfor
 
 [![Code of Conduct](https://img.shields.io/badge/%E2%9D%A4-code%20of%20conduct-blue.svg?style=flat)](https://github.com/edgi-govdata-archiving/overview/blob/master/CONDUCT.md)
 
+
+Repo websites
+
+[echo-by-cd](https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-by-Zip-Code/blob/master/echo-by-cd.ipynb)
+
+[echo-by-zip](https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-by-Zip-Code/blob/master/echo-by-zip.ipynb)
+
 ---
 ## Try it out!
 
 See a static sample report [here](https://htmlpreview.github.io/?https://github.com/edgi-govdata-archiving/ECHO-by-Zip-Code/blob/master/echo-by-zip-demo.html). This demo won't let you look at different locations, it's just a quick sample!
 
-### Link to Jupyter Notebook
-[Here](https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-by-Zip-Code/blob/master/echo-by-zip.ipynb)'s the demo where you can modify the location & see new results. Follow the instructions for Google Colab below:
+### Link to Jupyter Notebooks
+[echo-by-cd](https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-by-Zip-Code/blob/master/echo-by-cd.ipynb)
+
+[echo-by-zip](https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-by-Zip-Code/blob/master/echo-by-zip.ipynb)
 
 ### Running the notebook in Google CoLab
 * Go to [the CoLab page for the notebook](https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-by-Zip-Code/blob/master/echo-by-zip.ipynb)
