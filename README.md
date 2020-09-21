@@ -33,13 +33,13 @@ A Jupyter Notebook-based exploration of emissions permits, compliance, and enfor
 ---
 ## Try it out!
 
-See a static sample report [here](https://htmlpreview.github.io/?https://github.com/edgi-govdata-archiving/ECHO-by-Zip-Code/blob/master/echo-by-zip-demo.html). This demo won't let you look at different locations, it's just a quick sample!
+See a static sample report [here](https://htmlpreview.github.io/?https://github.com/edgi-govdata-archiving/ECHO-by-Zip-Code/blob/main/echo-by-zip-demo.html). This demo won't let you look at different locations, it's just a quick sample!
 
 ### Link to Jupyter Notebook
-[Here](https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-by-Zip-Code/blob/master/echo-by-zip.ipynb)'s the demo where you can modify the location & see new results. Follow the instructions for Google Colab below:
+[Here](https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-by-Zip-Code/blob/main/echo-by-zip.ipynb)'s the demo where you can modify the location & see new results. Follow the instructions for Google Colab below:
 
 ### Running the notebook in Google CoLab
-* Go to [the CoLab page for the notebook](https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-by-Zip-Code/blob/master/echo-by-zip.ipynb)
+* Go to [the CoLab page for the notebook](https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-by-Zip-Code/blob/main/echo-by-zip.ipynb)
 * Set `my_zip` in the code to the zip code you're interested in
 * In the "Runtime" menu, click "Run all"
 
@@ -163,7 +163,6 @@ $ git symbolic-ref refs/remotes/origin/HEAD refs/remotes/origin/main
 
 ---
 
----
 
 ## License & Copyright
 
